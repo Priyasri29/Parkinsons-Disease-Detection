@@ -1,7 +1,7 @@
 import pickle
 import streamlit as st
 
-parkinsons_model = pickle.load(open('D:\\Clg\\Sem VI\\65 - Mob & Cloud Appln. Lab\\Cat II proj\\rf.pkl', 'rb'))
+parkinsons_model = pickle.load(open('rf.pkl', 'rb'))
     
 # page title
 st.title("Parkinson's Disease Prediction using ML")
