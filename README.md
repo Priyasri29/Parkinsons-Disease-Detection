@@ -11,3 +11,6 @@ This Project addresses the drawbacks/shortcomings through a machine learning app
   - Decision Tree
   - Logistic Regression
   - K nearest neighbors
+  
+ ## Click here to view app!
+https://priyasri29-parkinsons-disease-detection-web-jx3f75.streamlit.app/
